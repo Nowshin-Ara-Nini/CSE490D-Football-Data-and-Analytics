@@ -86,6 +86,14 @@ Your notebook commentary is well-structured and scientifically sound. Most claim
 ---
 
 ### **Plot 3: Acceleration & PlayerLoad** ✅ FULLY DEFENSIBLE
+**If examiner pushes
+--Q: “Why is acceleration important?”
+
+Because accelerations and decelerations contribute more to mechanical load and fatigue than constant-speed running.
+
+--Q: “What does PlayerLoad represent?”
+
+It is a composite measure of total movement stress derived from acceleration across multiple axes.
 
 **Current commentary strength:**
 - Links acceleration spikes to physical cost (medically accurate)
@@ -201,6 +209,9 @@ This commentary was corrected from potential misconception. **You must be prepar
   - A: "Not directly. SpO₂ is binary (normal or hypoxic); it doesn't vary with fatigue levels. For assessment, use HR recovery, speed decline, power metrics. SpO₂ is a safety check, not a performance indicator"
 - Q: "Why did your commentary note this distinction?"
   - A: "Because there's a common misconception that stable SpO₂ = good cardiovascular condition. In reality, SpO₂ stays stable across a wide range of fitness levels. The key safety threshold is 90%; below that requires medical attention"
+- Q: “Why no drop in SpO₂ during high intensity?”
+
+Because in healthy individuals, arterial oxygen saturation is tightly regulated and typically remains stable even during short high-intensity efforts.
 
 **Strength for viva:** ✅ Avoids a major misconception; shows critical thinking
 
